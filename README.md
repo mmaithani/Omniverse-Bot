@@ -11,6 +11,16 @@ whats people been talking about.
   - [Tweepy](http://docs.tweepy.org/en/latest/getting_started.html) (python Module for managing/automating tweeter account)
   - [pythonanywhere](https://www.pythonanywhere.com/) (A online integrated development environment and web hosting service based on the Python programming language.)
 
+<img src="Screenshot1.png">
+
+For running your bot 24/7 live you can sign up on [Pythonanywhere](https://www.pythonanywhere.com/)
+And upload your code and keys into server 
+and Run this Simple Command in your Bash terminal 
+
+```sh
+$ python yourbotscript.py
+```
+
 # Features!
 
   - Like the tweets according to condition written in code.
