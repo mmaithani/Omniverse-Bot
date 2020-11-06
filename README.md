@@ -4,7 +4,7 @@
 This Twitter Bot is a cloud Server Deployed and 24/7, tweet india trends like 
 whats people been talking about.
 
-<img src="Screenshot.png" width="500">
+<img src="4Screenshot.png" width="500">
 
 ## Technology Used
   - Python 3 (Coding language to write code for your Bot) 
