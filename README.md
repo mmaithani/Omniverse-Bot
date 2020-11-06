@@ -1,7 +1,7 @@
 # Twitter Bot - omniverse_bot
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This Twitter Bot is a cloud Server Deployed and 24/7, tweet india trends like 
+This Twitter Bot is a cloud Server Deployed and work 24/7, tweeting india trends like 
 whats people been talking about.
 
 <img src="Screenshot.png">
