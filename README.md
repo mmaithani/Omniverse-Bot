@@ -106,5 +106,6 @@ $ git push -u origin <branch>
 Git will set up the tracking information during the push.
 
 License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ----
 [Copyright (c) 2020 Mohit Maithani](https://github.com/mmaithani/Omniverse-Bot/blob/main/LICENSE)
