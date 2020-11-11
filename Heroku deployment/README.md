@@ -1,11 +1,13 @@
 # Twitter Bot - omniverse_bot
+[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)]
 ## Heroku deployment of Twitter bot Script
+[![Heroku CI Status](https://omniversee.herokuapp.com/last.svg)](https://dashboard.heroku.com/pipelines/4d88adb7-171c-423b-ad03-084950a26376/tests)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 This Twitter Bot is a cloud Server Deployed and work 24/7, tweeting india trends like 
 whats people been talking about.
 
-<img src="Screenshot.png">
+<img src="https://github.com/mmaithani/Omniverse-Bot/blob/main/Screenshot.png">
 
 ## Technology Used
   - Python 3 (Coding language to write code for your Bot) 
@@ -13,7 +15,6 @@ whats people been talking about.
   - [Heroku](https://www.heroku.com) (A online integrated development environment and web hosting service.)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
 
 
 # Features!
