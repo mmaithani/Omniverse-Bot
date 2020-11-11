@@ -4,14 +4,14 @@
 This Twitter Bot is a cloud Server Deployed and work 24/7, tweeting india trends like 
 whats people been talking about.
 
-<img src="Screenshot.png">
+<img src="https://github.com/mmaithani/Omniverse-Bot/blob/main/Screenshot.png">
 
 ## Technology Used
   - Python 3 (Coding language to write code for your Bot) 
   - [Tweepy](http://docs.tweepy.org/en/latest/getting_started.html) (python Module for managing/automating tweeter account)
   - [pythonanywhere](https://www.pythonanywhere.com/) (A online integrated development environment and web hosting service based on the Python programming language.)
 
-<img src="Screenshot1.png">
+<img src="https://github.com/mmaithani/Omniverse-Bot/blob/main/Screenshot1.png">
 
 For running your bot 24/7 live you can sign up on [Pythonanywhere](https://www.pythonanywhere.com/)
 And upload your code and keys into server 
