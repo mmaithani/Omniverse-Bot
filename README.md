@@ -1,22 +1,28 @@
 # Twitter Bot - omniverse_bot
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 This Twitter Bot is a cloud Server Deployed and work 24/7, tweeting india trends like 
 whats people been talking about.
 
-<img src="https://github.com/mmaithani/Omniverse-Bot/blob/main/Screenshot.png">
+<img src="Screenshot.png">
 
 ## Technology Used
+[![PyPI version fury.io](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+
   - Python 3 (Coding language to write code for your Bot) 
+  - [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
   - [Tweepy](http://docs.tweepy.org/en/latest/getting_started.html) (python Module for managing/automating tweeter account)
   - [pythonanywhere](https://www.pythonanywhere.com/) (A online integrated development environment and web hosting service based on the Python programming language.)
 
-<img src="https://github.com/mmaithani/Omniverse-Bot/blob/main/Screenshot1.png">
+<img src="Screenshot1.png">
 
 For running your bot 24/7 live you can sign up on [Pythonanywhere](https://www.pythonanywhere.com/)
 And upload your code and keys into server 
 and Run this Simple Command in your Bash terminal 
 
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ```sh
 $ python yourbotscript.py
 ```
