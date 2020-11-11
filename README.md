@@ -107,4 +107,4 @@ Git will set up the tracking information during the push.
 
 License
 ----
-[WTFPL](https://en.wikipedia.org/wiki/WTFPL#:~:text=WTFPL%20is%20a%20GPL%2Dcompatible,dedication%20to%20the%20public%20domain.&text=The%20title%20is%20an%20abbreviation,You%20Want%20To%20Public%20License%22.) Do What the Fuck You Want To Public License 
+[Copyright (c) 2020 Mohit Maithani](https://github.com/mmaithani/Omniverse-Bot/blob/main/LICENSE)
