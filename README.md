@@ -7,6 +7,7 @@ This Twitter Bot is a cloud Server Deployed and work 24/7, tweeting india trends
 whats people been talking about.
 
 <img src="Screenshot.png">
+![image](https://user-images.githubusercontent.com/32105561/235362401-88f75851-81c7-4bf0-9a38-131316dff5d7.png)
 
 ## Technology Used
 [![PyPI version fury.io](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
