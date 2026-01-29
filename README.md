@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 This Twitter Bot is a cloud Server Deployed and work 24/7, tweeting india trends like 
-whats people been talking about.
+what are people talking about.
 
 <img src="Screenshot.png">
 <img src="https://user-images.githubusercontent.com/32105561/235362401-88f75851-81c7-4bf0-9a38-131316dff5d7.png">
